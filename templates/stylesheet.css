@@ -1,0 +1,40 @@
+
+body {
+	background: url("../images/me.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+div {
+
+	font-family: helvetica;
+	margin: 100px 0 50px 100px;
+}
+
+p {
+	font-size: 22px;
+	color: oldlace;
+}
+
+h1 {
+	color: white;
+}
+
+a:link, a:visited {
+	font-family: helvetica;
+	background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover {
+    background-color: orange;
+}
+
+a:active {
+    background-color: hotpink;
+} 
