@@ -6,20 +6,23 @@ body {
 }
 
 div {
-
 	font-family: helvetica;
 	margin: 100px 0 50px 100px;
 }
-
 p {
-	font-size: 22px;
+	font-size: 20px;
 	color: oldlace;
 }
-
 h1 {
-	color: white;
+	color: black;
 }
-
+h2 {
+	color: aliceblue;
+}
+li {
+	color: lightgrey;
+	font-size: 18px;
+}
 a:link, a:visited {
 	font-family: helvetica;
 	background-color: #f44336;
@@ -29,12 +32,9 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
 }
-
-
 a:hover {
     background-color: orange;
 }
-
 a:active {
     background-color: hotpink;
 } 
